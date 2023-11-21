@@ -1,4 +1,5 @@
-# Online Book 
+# Online BookStore
+![Bookstore Image](https://assets-susanwiggs.sfo2.cdn.digitaloceanspaces.com/2020/05/storefront-scaled.jpg)
 ---
 ### Project Goal
 
